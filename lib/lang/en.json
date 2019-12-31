@@ -1,0 +1,10 @@
+{
+    "app_name": "Flutter Localization",
+    "home_page": "Home Page",
+    "about_page": "About Us",
+    "about_app": "This is a test app showing how to Change language in flutter without restarting the app",
+    "note": "This is a test note",
+    "go_to_about": "Go to About ",
+    "english": "English",
+    "farsi": "فارسی"
+}
